@@ -116,7 +116,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &5985530318421008222
 RectTransform:
   m_ObjectHideFlags: 0
@@ -334,8 +334,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 24}
-  m_SizeDelta: {x: 509.3341, y: 129.4277}
+  m_AnchoredPosition: {x: 0, y: 93}
+  m_SizeDelta: {x: 910.4346, y: 231.352}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &5985530318835367593
 CanvasRenderer:
@@ -456,7 +456,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 1687.51}
+  m_SizeDelta: {x: 0, y: 580.08}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &5985530319121382769
 CanvasRenderer:
@@ -486,37 +486,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "TH\u1EF0C PH\u1EA8M CH\u1EE8C N\u0102NG C\u1EA2I THI\u1EC6N S\u1EE8C KH\u1ECEE\r\nTh\u1EF1c
-    ph\u1EA9m ch\u1EE9c n\u0103ng l\xE0 th\u1EF1c ph\u1EA9m (hay c\xF2n g\u1ECDi
-    s\u1EA3n ph\u1EA9m) c\xF3 t\xE1c d\u1EE5ng h\u1ED7 tr\u1EE3 t\u0103ng c\u01B0\u1EDDng
-    ch\u1EE9c n\u0103ng ho\u1EA1t \u0111\u1ED9ng c\u1EE7a c\xE1c b\u1ED9 ph\u1EADn
-    trong c\u01A1 th\u1EC3. TPCN gi\xFAp t\u0103ng \u0111\u1EC1 kh\xE1ng, b\u1EA3o
-    v\u1EC7 s\u1EE9c kh\u1ECFe v\xE0 gi\u1EA3m thi\u1EC3u nguy c\u01A1 b\u1EC7nh
-    l\xFD hi\u1EC7u qu\u1EA3\r\n\r\nChiaki.vn - K\xEAnh ph\xE2n ph\u1ED1i th\u1EF1c
-    ph\u1EA9m ch\u1EE9c n\u0103ng nh\u1EADp kh\u1EA9u v\u1EDBi h\u01A1n 5000+ s\u1EA3n
-    ph\u1EA9m c\xE1c lo\u1EA1i d\xE0nh cho m\u1ECDi \u0111\u1ED1i t\u01B0\u1EE3ng
-    nam, n\u1EEF t\u1EEB tr\u1EBB em, ng\u01B0\u1EDDi tr\u01B0\u1EDFng th\xE0nh t\u1EDBi
-    ng\u01B0\u1EDDi gi\xE0, v\u1EDBi \u0111\u1EA7y \u0111\u1EE7 c\xE1c d\u1EA1ng
-    s\u1EA3n ph\u1EA9m t\u1EEB d\u1EA1ng n\u01B0\u1EDBc, d\u1EA1ng vi\xEAn, d\u1EA1ng
-    b\u1ED9t, d\u1EA1ng gi\u1ECDt \u0111\u1EBFn t\u1EEB c\xE1c th\u01B0\u01A1ng hi\u1EC7u
-    th\u1EF1c ph\u1EA9m ch\u0103m s\xF3c s\u1EE9c kh\u1ECFe n\u1ED5i ti\u1EBFng h\xE0ng
-    \u0111\u1EA7u th\u1EBF gi\u1EDBi nh\u01B0: Blackmores, Swisse, Healthy Care,
-    DHC, Puritan's Pride, Shiseido,...\r\n\r\nTh\u1EF1c ph\u1EA9m ch\u1EE9c n\u0103ng
-    l\xE0 g\xEC?\r\nTh\u1EF1c ph\u1EA9m ch\u1EE9c n\u0103ng (t\xEAn g\u1ECDi ti\u1EBFng
-    anh functional foods) ra \u0111\u1EDDi l\u1EA7n \u0111\u1EA7u ti\xEAn \u1EDF
-    Nh\u1EADt B\u1EA3n v\xE0o n\u0103m 1980 v\u1EDBi th\xE0nh ph\u1EA7n ch\xEDnh
-    \u0111\u01B0\u1EE3c tinh chi\u1EBFt t\u1EEB c\xE1c lo\u1EA1i d\u01B0\u1EE3c li\u1EC7u,
-    \u0111\u1ED9ng th\u1EF1c v\u1EADt trong t\u1EF1 nhi\xEAn gi\xFAp b\u1ED5 sung
-    v\xE0 t\u0103ng c\u01B0\u1EDDng ch\u1EE9c n\u0103ng ho\u1EA1t \u0111\u1ED9ng
-    c\u1EE7a c\xE1c c\u01A1 quan trong c\u01A1 th\u1EC3. (Xem th\xEAm tr\xEAn wiki)\r\n\r\nC\xE1c
-    chuy\xEAn gia khuy\u1EBFn c\xE1o, ng\u01B0\u1EDDi d\xF9ng c\u1EA7n ph\xE2n bi\u1EC7t
-    th\u1EF1c ph\u1EA9m ch\u1EE9c n\u0103ng (gi\xFAp b\u1ED3i b\u1ED5 s\u1EE9c kh\u1ECFe,
-    gi\u1EA3m thi\u1EC3u tri\u1EC7u ch\u1EE9ng, ph\xF2ng ng\u1EEBa b\u1EC7nh l\xFD)
-    v\u1EDBi thu\u1ED1c (lo\u1EA1i c\xF3 t\xE1c d\u1EE5ng \u0111i\u1EC1u tr\u1ECB,
-    th\u01B0\u1EDDng ph\u1EA3i k\xEA \u0111\u01A1n), si\xEAu th\u1EF1c ph\u1EA9m
-    (lo\u1EA1i th\u1EF1c ph\u1EA9m gi\xE0u d\u01B0\u1EE1ng ch\u1EA5t v\xE0 c\xF3
-    ho\u1EA1t t\xEDnh sinh h\u1ECDc cao) v\xE0  Fortified food (lo\u1EA1i th\u1EF1c
-    ph\u1EA9m \u0111\xE3 \u0111\u01B0\u1EE3c l\xE0m gi\xE0u dinh d\u01B0\u1EE1ng)."
+  m_text: "TH\xD4NG TIN CHUNG\r\nKI\u1EC2U D\xC1NG\r\n\xC1o kho\xE1c\r\nGI\u1EDAI
+    T\xCDNH\r\nNam\r\nM\xC0U S\u1EAEC\r\n\u0110en\r\nCH\u1EA4T LI\u1EC6U\r\nS\u1EE3i
+    t\u1ED5ng h\u1EE3p\r\nXU\u1EA4T X\u1EE8\r\nPh\xE1p"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 661062368b9d93d4eb177222cdd54f5a, type: 2}
   m_sharedMaterial: {fileID: -3552317276621379475, guid: 661062368b9d93d4eb177222cdd54f5a, type: 2}
@@ -692,8 +664,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 45
-  m_fontSizeBase: 45
+  m_fontSize: 98.2
+  m_fontSizeBase: 98.2
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -741,14 +713,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5985530317950607004}
     m_Modifications:
-    - target: {fileID: 3595332343001552048, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 557.3706
-      objectReference: {fileID: 0}
-    - target: {fileID: 3595332343001552048, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 643.95
-      objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661354, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_Name
       value: SanPhamUI O Shop
@@ -767,7 +731,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMax.y
@@ -775,7 +739,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchorMin.y
@@ -783,11 +747,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 722.2098
+      value: 722.2097
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_SizeDelta.y
       value: 668.9515
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.9885591
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.9885591
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.9885591
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -819,11 +795,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 511
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -622.3992
+      value: -1074
       objectReference: {fileID: 0}
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -836,30 +812,6 @@ PrefabInstance:
     - target: {fileID: 3595332343965661355, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579350627385681919, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579350627385681919, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579350627385681919, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579350627385681919, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 557.3706
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579350627385681919, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 780.9866
-      objectReference: {fileID: 0}
-    - target: {fileID: 7579350627385681919, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -390.4933
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdda93db48aa6bb4d82c8efec6d4723c, type: 3}

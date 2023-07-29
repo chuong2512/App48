@@ -7,17 +7,17 @@ using UnityEngine.Purchasing;
 
 public class Key
 {
-    public const string PACK1 = "app26_pack1";
-    public const string PACK2 = "app26_pack2";
-    public const string PACK3 = "app26_pack3";
-    public const string PACK4 = "app26_pack4";
+    public const string PACK1 = "app48_pack1";
+    public const string PACK2 = "app48_pack2";
+    public const string PACK3 = "app48_pack3";
+    public const string PACK4 = "app48_pack4";
 
 
-    public const string PACK1_REGISTER = "register_app26_pack1";
-    public const string PACK2_REGISTER = "register_app26_pack2";
-    public const string PACK3_REGISTER = "register_app26_pack3";
-    public const string PACK4_REGISTER = "register_app26_pack4";
-    public const string PACK5_REGISTER = "register_app26_pack5";
+    public const string PACK1_REGISTER = "register_app48_pack1";
+    public const string PACK2_REGISTER = "register_app48_pack2";
+    public const string PACK3_REGISTER = "register_app48_pack3";
+    public const string PACK4_REGISTER = "register_app48_pack4";
+    public const string PACK5_REGISTER = "register_app48_pack5";
 }
 
 public class IAPManager : PersistentSingleton<IAPManager>, IStoreListener

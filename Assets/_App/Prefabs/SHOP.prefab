@@ -468,7 +468,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6d392aa7f7f367146be75edadd0edcdd, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -724,6 +724,18 @@ PrefabInstance:
     - target: {fileID: 2863574752212906032, guid: 542de81c427ab3c4b9d5c407e34c45b1, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929991119101259474, guid: 542de81c427ab3c4b9d5c407e34c45b1, type: 3}
+      propertyPath: m_Spacing.x
+      value: 28.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929991119101259474, guid: 542de81c427ab3c4b9d5c407e34c45b1, type: 3}
+      propertyPath: m_Spacing.y
+      value: -82.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929991119101259474, guid: 542de81c427ab3c4b9d5c407e34c45b1, type: 3}
+      propertyPath: m_Padding.m_Top
+      value: -23
       objectReference: {fileID: 0}
     - target: {fileID: 3132601577112173175, guid: 542de81c427ab3c4b9d5c407e34c45b1, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1944,15 +1956,15 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: aec6a11fa76d1f84a9c6b1d5bc32d427, type: 3}
     - target: {fileID: 2695470528358555316, guid: c1c7e78be0b95014a86ed52bc28f848b, type: 3}
       propertyPath: m_text
-      value: "TH\u1EF0C PH\u1EA8M LAMA PHARMA"
+      value: "SHOP H\xC0NG HI\u1EC6U"
       objectReference: {fileID: 0}
     - target: {fileID: 2695470528358555316, guid: c1c7e78be0b95014a86ed52bc28f848b, type: 3}
       propertyPath: m_fontSize
-      value: 49.93
+      value: 57.5
       objectReference: {fileID: 0}
     - target: {fileID: 2695470528358555316, guid: c1c7e78be0b95014a86ed52bc28f848b, type: 3}
       propertyPath: m_fontSizeBase
-      value: 49.93
+      value: 57.5
       objectReference: {fileID: 0}
     - target: {fileID: 2695470528358555316, guid: c1c7e78be0b95014a86ed52bc28f848b, type: 3}
       propertyPath: m_fontColor32.rgba
